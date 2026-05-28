@@ -1,4 +1,4 @@
-package demos
+package demos.android.get.component.by.id.demo
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
